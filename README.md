@@ -14,12 +14,14 @@
 
 # 算法文章精选
 
+**提示：在电脑端看如下文章的，看不到文章的评论区，建议在手机端「代码随想录」公众号里也翻一下对应的文章，评论区有录友们的打卡总结，相信会和你有不少共鸣！**
+
 * 编程语言
     * [C++面试&C++学习指南知识点整理](https://github.com/youngyangyang04/TechCPP)
 
 * 求职 
     * [程序员应该如何写简历（附简历模板）](https://mp.weixin.qq.com/s/PkBpde0PV65dJjj9zZJYtg)
-    * [一线互联网公司技术面试的流程以及注意事项](https://mp.weixin.qq.com/s/1VMvQ_6HbVpEn85CNilTiw)
+    * [BAT级别技术面试流程和注意事项都在这里了](https://mp.weixin.qq.com/s/815qCyFGVIxwut9I_7PNFw)
 
 * 算法性能分析
     * [究竟什么是时间复杂度，怎么求时间复杂度，看这一篇就够了](https://mp.weixin.qq.com/s/lYL9TSxLqCeFXIdjt4dcIw)
@@ -41,6 +43,7 @@
     * [链表：一道题目考察了常见的五个操作！](https://mp.weixin.qq.com/s/Cf95Lc6brKL4g2j8YyF3Mg)
     * [链表：听说过两天反转链表又写不出来了？](https://mp.weixin.qq.com/s/pnvVP-0ZM7epB8y3w_Njwg)
     * [链表：环找到了，那入口呢？](https://mp.weixin.qq.com/s/_QVP3IkRZWx9zIpQRgajzA)
+    * [链表：总结篇！](https://mp.weixin.qq.com/s/vK0JjSTHfpAbs8evz5hH8A)
 
 * 哈希表
     * [关于哈希表，你该了解这些！](https://mp.weixin.qq.com/s/g8N6WmoQmsCUw3_BaWxHZA)
@@ -52,6 +55,7 @@
     * [哈希表：这道题目我做过？](https://mp.weixin.qq.com/s/sYZIR4dFBrw_lr3eJJnteQ)
     * [哈希表：解决了两数之和，那么能解决三数之和么？](https://mp.weixin.qq.com/s/r5cgZFu0tv4grBAexdcd8A)
     * [双指针法：一样的道理，能解决四数之和](https://mp.weixin.qq.com/s/nQrcco8AZJV1pAOVjeIU_g)
+    * [哈希表：总结篇！（每逢总结必经典）](https://mp.weixin.qq.com/s/1s91yXtarL-PkX07BfnwLg)
 
 
 * 字符串
@@ -60,9 +64,9 @@
     * [字符串：替换空格](https://mp.weixin.qq.com/s/t0A9C44zgM-RysAQV3GZpg)
     * [字符串：花式反转还不够！](https://mp.weixin.qq.com/s/X3qpi2v5RSp08mO-W5Vicw)
     * [字符串：反转个字符串还有这个用处？](https://mp.weixin.qq.com/s/PmcdiWSmmccHAONzU0ScgQ)
-    * [字符串：KMP是时候上场了（一文读懂系列）](https://mp.weixin.qq.com/s/70OXnZ4Ez29CKRrUpVJmug)
+    * [帮你把KMP算法学个通透！（理论篇）B站视频](https://www.bilibili.com/video/BV1PD4y1o7nd)
+    * [帮你把KMP算法学个通透！（代码篇）B站视频](https://www.bilibili.com/video/BV1M5411j7Xx)
     * [字符串：都来看看KMP的看家本领！](https://mp.weixin.qq.com/s/Gk9FKZ9_FSWLEkdGrkecyg)
-    * [字符串：听说你对KMP有这些疑问？](https://mp.weixin.qq.com/s/mqx6IM2AO4kLZwvXdPtEeQ)
     * [字符串：KMP算法还能干这个！](https://mp.weixin.qq.com/s/lR2JPtsQSR2I_9yHbBmBuQ)
     * [字符串：前缀表不右移，难道就写不出KMP了？](https://mp.weixin.qq.com/s/p3hXynQM2RRROK5c6X7xfw)
     * [字符串：总结篇！](https://mp.weixin.qq.com/s/gtycjyDtblmytvBRFlCZJg)
@@ -123,8 +127,27 @@
     * [二叉树：搜索树中的删除操作](https://mp.weixin.qq.com/s/-p-Txvch1FFk3ygKLjPAKw)
     * [二叉树：修剪一棵搜索树](https://mp.weixin.qq.com/s/QzmGfYUMUWGkbRj7-ozHoQ)
     * [二叉树：构造一棵搜索树](https://mp.weixin.qq.com/s/sy3ygnouaZVJs8lhFgl9mw)
-
+    * [二叉树：搜索树转成累加树](https://mp.weixin.qq.com/s/hZtJh4T5lIGBarY-lZJf6Q)
+    * [二叉树：总结篇！（需要掌握的二叉树技能都在这里了）](https://mp.weixin.qq.com/s/-ZJn3jJVdF683ap90yIj4Q)
  
+* 回溯算法 
+    * [关于回溯算法，你该了解这些！](https://mp.weixin.qq.com/s/gjSgJbNbd1eAA5WkA-HeWw)
+    * [回溯算法：求组合问题！](https://mp.weixin.qq.com/s/OnBjbLzuipWz_u4QfmgcqQ)
+    * [回溯算法：组合问题再剪剪枝](https://mp.weixin.qq.com/s/Ri7spcJMUmph4c6XjPWXQA)
+    * [回溯算法：求组合总和！](https://mp.weixin.qq.com/s/HX7WW6ixbFZJASkRnCTC3w)
+    * [回溯算法：电话号码的字母组合](https://mp.weixin.qq.com/s/e2ua2cmkE_vpYjM3j6HY0A)
+    * [本周小结！（回溯算法系列一）](https://mp.weixin.qq.com/s/m2GnTJdkYhAamustbb6lmw)
+    * [回溯算法：求组合总和（二）](https://mp.weixin.qq.com/s/FLg8G6EjVcxBjwCbzpACPw)
+    * [回溯算法：求组合总和（三）](https://mp.weixin.qq.com/s/_1zPYk70NvHsdY8UWVGXmQ)
+    * [回溯算法：分割回文串](https://mp.weixin.qq.com/s/Pb1epUTbU8fHIht-g_MS5Q)
+    * [回溯算法：复原IP地址](https://mp.weixin.qq.com/s/v--VmA8tp9vs4bXCqHhBuA)
+    * [回溯算法：求子集问题！](https://mp.weixin.qq.com/s/NNRzX-vJ_pjK4qxohd_LtA)
+    * [本周小结！（回溯算法系列二）](https://mp.weixin.qq.com/s/uzDpjrrMCO8DOf-Tl5oBGw)
+    * [回溯算法：求子集问题（二）](https://mp.weixin.qq.com/s/WJ4JNDRJgsW3eUN72Hh3uQ)
+    * [回溯算法：递增子序列](https://mp.weixin.qq.com/s/ePxOtX1ATRYJb2Jq7urzHQ)
+    * [回溯算法：排列问题！](https://mp.weixin.qq.com/s/SCOjeMX1t41wcvJq49GhMw)
+    * [回溯算法：排列问题（二）](https://mp.weixin.qq.com/s/9L8h3WqRP_h8LLWNT34YlA)
+    * [本周小结！（回溯算法系列三）](https://mp.weixin.qq.com/s/tLkt9PSo42X60w8i94ViiA)
 
 （持续更新中....）
 
@@ -288,16 +311,21 @@
 |[0026.删除排序数组中的重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/0026.删除排序数组中的重复项.md)  |数组 |简单|**暴力** **快慢指针/快慢指针** |
 |[0027.移除元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0027.移除元素.md)  |数组 |简单| **暴力** **双指针/快慢指针/双指针**|
 |[0028.实现strStr()](https://github.com/youngyangyang04/leetcode/blob/master/problems/0028.实现strStr().md)  |字符串 |简单| **KMP** |
+|[0031.下一个排列](https://github.com/youngyangyang04/leetcode/blob/master/problems/0031.下一个排列.md)  |数组 |中等| **模拟**  这道题目还是有难度的|
 |[0035.搜索插入位置](https://github.com/youngyangyang04/leetcode/blob/master/problems/0035.搜索插入位置.md) |数组 |简单| **暴力** **二分**|
 |[0037.解数独](https://github.com/youngyangyang04/leetcode/blob/master/problems/0037.解数独.md) |回溯 |困难| **回溯**|
 |[0039.组合总和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0039.组合总和.md) |数组/回溯 |中等| **回溯**|
 |[0040.组合总和II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0040.组合总和II.md) |数组/回溯 |中等| **回溯**|
 |[0042.接雨水](https://github.com/youngyangyang04/leetcode/blob/master/problems/0042.接雨水.md) |数组/栈/双指针 |困难| **双指针** **单调栈** **动态规划**|
+|[0045.跳跃游戏II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0045.跳跃游戏II.md) |贪心 |困难| **贪心**|
 |[0046.全排列](https://github.com/youngyangyang04/leetcode/blob/master/problems/0046.全排列.md) |回溯|中等| **回溯**|
 |[0047.全排列II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0047.全排列II.md) |回溯|中等| **回溯**|
 |[0051.N皇后](https://github.com/youngyangyang04/leetcode/blob/master/problems/0051.N皇后.md) |回溯|困难| **回溯**|
 |[0052.N皇后II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0052.N皇后II.md) |回溯|困难| **回溯**|
 |[0053.最大子序和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0053.最大子序和.md) |数组 |简单|**暴力** **贪心** 动态规划 分治|
+|[0055.跳跃游戏](https://github.com/youngyangyang04/leetcode/blob/master/problems/0053.最大子序和.md) |数组 |中等| **贪心** 经典题目|
+|[0056.合并区间](https://github.com/youngyangyang04/leetcode/blob/master/problems/0056.合并区间.md) |数组 |中等| **贪心** 以为是模拟题，其实是贪心|
+|[0057.插入区间](https://github.com/youngyangyang04/leetcode/blob/master/problems/0057.插入区间.md) |数组 |困难| **模拟**  是一道数组难题|
 |[0059.螺旋矩阵II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0059.螺旋矩阵II.md) |数组 |中等|**模拟**|
 |[0077.组合](https://github.com/youngyangyang04/leetcode/blob/master/problems/0077.组合.md) |回溯 |中等|**回溯**|
 |[0078.子集](https://github.com/youngyangyang04/leetcode/blob/master/problems/0078.子集.md) |回溯/数组 |中等|**回溯**|
@@ -321,6 +349,9 @@
 |[0113.路径总和II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0113.路径总和II.md) |二叉树树 |简单|**深度优先搜索/递归** **回溯** **栈**|
 |[0116.填充每个节点的下一个右侧节点指针](https://github.com/youngyangyang04/leetcode/blob/master/problems/0116.填充每个节点的下一个右侧节点指针.md) |二叉树 |中等|**递归** **迭代/广度优先搜索**|
 |[0117.填充每个节点的下一个右侧节点指针II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0117.填充每个节点的下一个右侧节点指针II.md) |二叉树 |中等|**递归** **迭代/广度优先搜索**|
+|[0122.买卖股票的最佳时机II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0122.买卖股票的最佳时机II.md) |贪心 |简单|**贪心** |
+|[0127.单词接龙](https://github.com/youngyangyang04/leetcode/blob/master/problems/0127.单词接龙.md) |广度优先搜索 |中等|**广度优先搜索**|
+|[0129.求根到叶子节点数字之和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0129.求根到叶子节点数字之和.md) |二叉树 |中等|**递归/回溯** 递归里隐藏着回溯，和113.路径总和II类似|
 |[0131.分割回文串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0131.分割回文串.md) |回溯 |中等|**回溯**|
 |[0141.环形链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0141.环形链表.md) |链表 |简单|**快慢指针/双指针**|
 |[0142.环形链表II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0142.环形链表II.md) |链表 |中等|**快慢指针/双指针**|
@@ -348,6 +379,7 @@
 |[0239.滑动窗口最大值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0239.滑动窗口最大值.md) |滑动窗口/队列 |困难| **单调队列**|
 |[0242.有效的字母异位词](https://github.com/youngyangyang04/leetcode/blob/master/problems/0242.有效的字母异位词.md) |哈希表 |简单| **哈希**|
 |[0257.二叉树的所有路径](https://github.com/youngyangyang04/leetcode/blob/master/problems/0257.二叉树的所有路径.md) |树 |简单| **递归/回溯**|
+|[0316.去除重复字母](https://github.com/youngyangyang04/leetcode/blob/master/problems/0316.去除重复字母.md) |贪心/字符串 |中等| **单调栈** 这道题目处理的情况比较多，属于单调栈中的难题|
 |[0332.重新安排行程](https://github.com/youngyangyang04/leetcode/blob/master/problems/0332.重新安排行程.md) |深度优先搜索/回溯 |中等| **深度优先搜索/回溯算法**|
 |[0344.反转字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0344.反转字符串.md) |字符串 |简单| **双指针**|
 |[0347.前K个高频元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0347.前K个高频元素.md) |哈希/堆/优先级队列 |中等| **哈希/优先级队列**|
@@ -358,11 +390,13 @@
 |[0416.分割等和子集](https://github.com/youngyangyang04/leetcode/blob/master/problems/0416.分割等和子集.md) |动态规划 |中等|**背包问题/01背包**|
 |[0429.N叉树的层序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0429.N叉树的层序遍历.md) |树 |简单|**队列/广度优先搜索**|
 |[0434.字符串中的单词数](https://github.com/youngyangyang04/leetcode/blob/master/problems/0434.字符串中的单词数.md) |字符串 |简单|**模拟**|
+|[0435.无重叠区间](https://github.com/youngyangyang04/leetcode/blob/master/problems/0435.无重叠区间.md) |贪心 |中等|**贪心** 经典题目，有点难|
 |[0450.删除二叉搜索树中的节点](https://github.com/youngyangyang04/leetcode/blob/master/problems/0450.删除二叉搜索树中的节点.md) |树 |中等|**递归**|
 |[0454.四数相加II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0454.四数相加II.md) |哈希表 |中等| **哈希**|
+|[0455.分发饼干](https://github.com/youngyangyang04/leetcode/blob/master/problems/0455.分发饼干.md) |贪心 |简单| **贪心**|
 |[0459.重复的子字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0459.重复的子字符串.md) |字符创 |简单| **KMP**|
 |[0486.预测赢家](https://github.com/youngyangyang04/leetcode/blob/master/problems/0486.预测赢家.md) |动态规划 |中等| **递归** **记忆递归** **动态规划**|
-|[0491.递增子序列](https://github.com/youngyangyang04/leetcode/blob/master/problems/0491.递增子序列.md) |深度优先搜索 |中等|**深度优先搜索/回溯算法**|
+|[0491.递增子序列](https://github.com/youngyangyang04/leetcode/blob/master/problems/0491.递增子序列.md) |深度优先搜索 |中等|**深度优先搜索/回溯算法** 这个去重有意思|
 |[0496.下一个更大元素I](https://github.com/youngyangyang04/leetcode/blob/master/problems/0496.下一个更大元素I.md) |栈 |中等|**单调栈** 入门题目，但是两个数组还是有点绕的|
 |[0501.二叉搜索树中的众数](https://github.com/youngyangyang04/leetcode/blob/master/problems/0501.二叉搜索树中的众数.md) |二叉树 |简单|**递归/中序遍历**|
 |[0513.找树左下角的值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0513.找树左下角的值.md) |二叉树 |中等|**递归** **迭代**|
@@ -389,10 +423,15 @@
 |[0841.钥匙和房间](https://github.com/youngyangyang04/leetcode/blob/master/problems/0841.钥匙和房间.md) |孤岛问题 |中等|**bfs** **dfs**|
 |[0844.比较含退格的字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0844.比较含退格的字符串.md) |字符串 |简单|**栈** **双指针优化** 使用栈的思路但没有必要使用栈|
 |[0925.长按键入](https://github.com/youngyangyang04/leetcode/blob/master/problems/0925.长按键入.md) |字符串 |简单|**双指针/模拟** 是一道模拟类型的题目|
+|[0941.有效的山脉数组](https://github.com/youngyangyang04/leetcode/blob/master/problems/0941.有效的山脉数组.md) |数组 |简单|**双指针**|
 |[0968.监控二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0968.监控二叉树.md) |二叉树 |困难|**贪心** 贪心与二叉树的结合|
+|[0973.最接近原点的K个点](https://github.com/youngyangyang04/leetcode/blob/master/problems/0973.最接近原点的K个点.md) |优先级队列 |中等|**优先级队列**|
 |[0977.有序数组的平方](https://github.com/youngyangyang04/leetcode/blob/master/problems/0977.有序数组的平方.md) |数组 |中等|**双指针** 还是比较巧妙的|
 |[1002.查找常用字符](https://github.com/youngyangyang04/leetcode/blob/master/problems/1002.查找常用字符.md) |栈 |简单|**栈**|
 |[1047.删除字符串中的所有相邻重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/1047.删除字符串中的所有相邻重复项.md) |哈希表 |简单|**哈希表/数组**|
+|[1207.独一无二的出现次数](https://github.com/youngyangyang04/leetcode/blob/master/problems/1207.独一无二的出现次数.md) |哈希表 |简单|**哈希** 两层哈希|
+|[1356.根据数字二进制下1的数目排序](https://github.com/youngyangyang04/leetcode/blob/master/problems/1356.根据数字二进制下1的数目排序.md) |位运算 |简单|**位运算** 巧妙的计算二进制中1的数量|
+|[1365.有多少小于当前数字的数字](https://github.com/youngyangyang04/leetcode/blob/master/problems/1365.有多少小于当前数字的数字.md) |数组、哈希表 |简单|**哈希** 从后遍历的技巧很不错|
 |[1382.将二叉搜索树变平衡](https://github.com/youngyangyang04/leetcode/blob/master/problems/1047.删除字符串中的所有相邻重复项.md) |二叉搜索树 |中等|**递归** **迭代** 98和108的组合题目|
 |[剑指Offer05.替换空格](https://github.com/youngyangyang04/leetcode/blob/master/problems/剑指Offer05.替换空格.md) |字符串 |简单|**双指针**|
 |[ 剑指Offer58-I.翻转单词顺序](https://github.com/youngyangyang04/leetcode/blob/master/problems/剑指Offer05.替换空格.md) |字符串 |简单|**模拟/双指针**|
@@ -406,17 +445,16 @@
 
 大家好，我是程序员Carl，哈工大师兄，ACM 校赛、黑龙江省赛、东北四省赛金牌、亚洲区域赛铜牌获得者，先后在腾讯和百度从事后端技术研发，CSDN博客专家。对算法和C++后端技术有一定的见解，利用工作之余重新刷leetcode。 
 
-**加我的微信，备注：「个人简单介绍」+「组队刷题」**， 拉你进刷题群，每天一道经典题目分析，而且题目不是孤立的，每一道题目之间都是有关系的，都是由浅入深一脉相承的，所以学习效果最好是每篇连续着看，也许之前你会某些知识点，但是一直没有把知识点串起来，这里每天一篇文章就会帮你把知识点串起来。我也花了不少精力来整理我的题解，**而且我不会在群里发任何广告，纯自己学习和分享。 欢迎你的加入！**
+**加我的微信，备注：「个人简单介绍」+「组队刷题」**， 拉你进刷题群，每天一道经典题目分析，而且题目不是孤立的，每一道题目之间都是有关系的，都是由浅入深一脉相承的，所以学习效果最好是每篇连续着看，也许之前你会某些知识点，但是一直没有把知识点串起来，这里每天一篇文章就会帮你把知识点串起来。
 
 <a name="微信"></a>
 <img src="https://img-blog.csdnimg.cn/20200814140330894.png" data-img="1" width="175" height="175">
 
 # 我的公众号
 
+更多精彩文章持续更新，微信搜索：「代码随想录」第一时间围观，关注后回复：「简历模板」「java」「C++」「python」等关键字就可以获得我多年整理出来的学习资料。
 
-更多精彩文章持续更新，微信搜索：「代码随想录」第一时间围观，关注后回复： 「简历模板」「java」「C++」「python」「算法与数据结构」 等关键字就可以获得我多年整理出来的学习资料。
-
-**每天8：35准时为你推送一篇经典面试题目，帮你梳理算法知识体系，轻松学习算法！**，并且公众号里有大量学习资源，也有我自己的学习心得和方法总结，相信你一定会有所收获！
+**每天8：35准时为你推送一篇经典面试题目，帮你梳理算法知识体系，轻松学习算法！**，并且公众号里有大量学习资源，也有我自己的学习心得和方法总结，更有很多志同道合的好伙伴在这里打卡学习，来看看就你知道了，相信一定会有所收获！
 
 <a name="公众号"></a>
 
