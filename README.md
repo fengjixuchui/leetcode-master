@@ -12,6 +12,14 @@
 
 ![算法面试知识大纲](https://img-blog.csdnimg.cn/20200729181420491.png)
 
+# 算法视频讲解 
+
+* [KMP算法（理论篇）B站视频](https://www.bilibili.com/video/BV1PD4y1o7nd)
+* [KMP算法（代码篇）B站视频](https://www.bilibili.com/video/BV1M5411j7Xx)
+* [回溯算法（理论篇）B站视频](https://www.bilibili.com/video/BV1cy4y167mM)
+
+（持续更新中....）
+
 # 算法文章精选
 
 **提示：在电脑端看如下文章的，看不到文章的评论区，建议在手机端「代码随想录」公众号里也翻一下对应的文章，评论区有录友们的打卡总结，相信会和你有不少共鸣！**
@@ -22,6 +30,7 @@
 * 求职 
     * [程序员应该如何写简历（附简历模板）](https://mp.weixin.qq.com/s/PkBpde0PV65dJjj9zZJYtg)
     * [BAT级别技术面试流程和注意事项都在这里了](https://mp.weixin.qq.com/s/815qCyFGVIxwut9I_7PNFw)
+    * [深圳原来有这么多互联网公司，你都知道么？](https://mp.weixin.qq.com/s/Yzrkim-5bY0Df66Ao-hoqA)
 
 * 算法性能分析
     * [究竟什么是时间复杂度，怎么求时间复杂度，看这一篇就够了](https://mp.weixin.qq.com/s/lYL9TSxLqCeFXIdjt4dcIw)
@@ -148,6 +157,13 @@
     * [回溯算法：排列问题！](https://mp.weixin.qq.com/s/SCOjeMX1t41wcvJq49GhMw)
     * [回溯算法：排列问题（二）](https://mp.weixin.qq.com/s/9L8h3WqRP_h8LLWNT34YlA)
     * [本周小结！（回溯算法系列三）](https://mp.weixin.qq.com/s/tLkt9PSo42X60w8i94ViiA)
+    * [本周小结！（回溯算法系列三）续集](https://mp.weixin.qq.com/s/kSMGHc_YpsqL2j-jb_E_Ag)
+    * [视频来了！！带你学透回溯算法（理论篇）](https://mp.weixin.qq.com/s/wDd5azGIYWjbU0fdua_qBg)
+    * [回溯算法：重新安排行程](https://mp.weixin.qq.com/s/3kmbS4qDsa6bkyxR92XCTA)
+    * [回溯算法：N皇后问题](https://mp.weixin.qq.com/s/lU_QwCMj6g60nh8m98GAWg)
+    * [回溯算法：解数独](https://mp.weixin.qq.com/s/eWE9TapVwm77yW9Q81xSZQ)
+    * [一篇总结带你彻底搞透回溯算法！](https://mp.weixin.qq.com/s/r73thpBnK1tXndFDtlsdCQ)
+
 
 （持续更新中....）
 
@@ -201,6 +217,7 @@
 
 * 双指针法经典题目
     * [0027.移除元素](https://mp.weixin.qq.com/s/wj0T-Xs88_FHJFwayElQlA)
+    * [0283.移动零](https://github.com/youngyangyang04/leetcode/blob/master/problems/0283.移动零.md) 和27.移除元素很像
     * [0015.三数之和](https://mp.weixin.qq.com/s/r5cgZFu0tv4grBAexdcd8A)
     * [0018.四数之和](https://mp.weixin.qq.com/s/nQrcco8AZJV1pAOVjeIU_g)
     * [0026.删除排序数组中的重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/0026.删除排序数组中的重复项.md) 
@@ -353,11 +370,13 @@
 |[0127.单词接龙](https://github.com/youngyangyang04/leetcode/blob/master/problems/0127.单词接龙.md) |广度优先搜索 |中等|**广度优先搜索**|
 |[0129.求根到叶子节点数字之和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0129.求根到叶子节点数字之和.md) |二叉树 |中等|**递归/回溯** 递归里隐藏着回溯，和113.路径总和II类似|
 |[0131.分割回文串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0131.分割回文串.md) |回溯 |中等|**回溯**|
+|[0135.分发糖果](https://github.com/youngyangyang04/leetcode/blob/master/problems/0135.分发糖果.md) |贪心 |困难|**贪心**好题目|
 |[0141.环形链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0141.环形链表.md) |链表 |简单|**快慢指针/双指针**|
 |[0142.环形链表II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0142.环形链表II.md) |链表 |中等|**快慢指针/双指针**|
 |[0143.重排链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0143.重排链表.md) |链表 |中等|**快慢指针/双指针** 也可以用数组，双向队列模拟，考察链表综合操作的好题|
 |[0144.二叉树的前序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0144.二叉树的前序遍历.md) |树 |中等|**递归** **迭代/栈**|
 |[0145.二叉树的后序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0145.二叉树的后序遍历.md) |树 |困难|**递归** **迭代/栈**|
+|[0147.对链表进行插入排序](https://github.com/youngyangyang04/leetcode/blob/master/problems/0147.对链表进行插入排序.md) |链表 |中等|**模拟** 考察链表综合操作|
 |[0150.逆波兰表达式求值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0150.逆波兰表达式求值.md) |栈 |中等|**栈**|
 |[0151.翻转字符串里的单词](https://github.com/youngyangyang04/leetcode/blob/master/problems/0151.翻转字符串里的单词.md) |字符串 |中等|**模拟/双指针**|
 |[0155.最小栈](https://github.com/youngyangyang04/leetcode/blob/master/problems/0155.最小栈.md) |栈 |简单|**栈**|
@@ -379,6 +398,7 @@
 |[0239.滑动窗口最大值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0239.滑动窗口最大值.md) |滑动窗口/队列 |困难| **单调队列**|
 |[0242.有效的字母异位词](https://github.com/youngyangyang04/leetcode/blob/master/problems/0242.有效的字母异位词.md) |哈希表 |简单| **哈希**|
 |[0257.二叉树的所有路径](https://github.com/youngyangyang04/leetcode/blob/master/problems/0257.二叉树的所有路径.md) |树 |简单| **递归/回溯**|
+|[0283.移动零](https://github.com/youngyangyang04/leetcode/blob/master/problems/0283.移动零.md) |数组 |简单| **双指针** 和 27.移除元素 一个套路|
 |[0316.去除重复字母](https://github.com/youngyangyang04/leetcode/blob/master/problems/0316.去除重复字母.md) |贪心/字符串 |中等| **单调栈** 这道题目处理的情况比较多，属于单调栈中的难题|
 |[0332.重新安排行程](https://github.com/youngyangyang04/leetcode/blob/master/problems/0332.重新安排行程.md) |深度优先搜索/回溯 |中等| **深度优先搜索/回溯算法**|
 |[0344.反转字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0344.反转字符串.md) |字符串 |简单| **双指针**|
@@ -387,6 +407,7 @@
 |[0350.两个数组的交集II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0350.两个数组的交集II.md) |哈希表 |简单|**哈希**|
 |[0383.赎金信](https://github.com/youngyangyang04/leetcode/blob/master/problems/0383.赎金信.md) |数组 |简单|**暴力** **字典计数** **哈希**|
 |[0404.左叶子之和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0404.左叶子之和.md) |树/二叉树 |简单|**递归** **迭代**|
+|[0406.根据身高重建队列](https://github.com/youngyangyang04/leetcode/blob/master/problems/0406.根据身高重建队列.md) |树/二叉树 |简单|**递归** **迭代**|
 |[0416.分割等和子集](https://github.com/youngyangyang04/leetcode/blob/master/problems/0416.分割等和子集.md) |动态规划 |中等|**背包问题/01背包**|
 |[0429.N叉树的层序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0429.N叉树的层序遍历.md) |树 |简单|**队列/广度优先搜索**|
 |[0434.字符串中的单词数](https://github.com/youngyangyang04/leetcode/blob/master/problems/0434.字符串中的单词数.md) |字符串 |简单|**模拟**|
