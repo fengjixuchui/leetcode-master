@@ -1,3 +1,15 @@
+<p align='center'>
+<img src="https://img-blog.csdnimg.cn/20201215214102642.png" width=400 >
+</p>
+<p align="center">
+  <a href="https://github.com/youngyangyang04/leetcode-master"><img src="https://img.shields.io/badge/Github-leetcode--master-lightgrey" alt=""></a>
+  <a href="https://img-blog.csdnimg.cn/20201115103410182.png"><img src="https://img.shields.io/badge/刷题-微信群-green" alt=""></a>
+  <a href="https://img-blog.csdnimg.cn/20201210231711160.png"><img src="https://img.shields.io/badge/公众号-代码随想录-brightgreen" alt=""></a>
+  <a href="https://space.bilibili.com/525438321"><img src="https://img.shields.io/badge/B站-代码随想录-orange" alt=""></a>
+  <a href="https://www.zhihu.com/people/sun-xiu-yang-64"><img src="https://img.shields.io/badge/知乎-代码随想录-blue" alt=""></a>
+  <a href="https://www.toutiao.com/c/user/60356270818/#mid=1633692776932365"><img src="https://img.shields.io/badge/头条-代码随想录-red" alt=""></a>
+</p>
+
 目录：
 =================
 
@@ -19,13 +31,14 @@
 * [KMP算法（代码篇）](https://www.bilibili.com/video/BV1M5411j7Xx)
 * [回溯算法（理论篇）](https://www.bilibili.com/video/BV1cy4y167mM)
 * [回溯算法之组合问题（力扣题目：77.组合）](https://www.bilibili.com/video/BV1ti4y1L7cv)
-* [带你学透回溯算法-组合问题的剪枝操作（对应力扣题目：77.组合）](https://www.bilibili.com/video/BV1wi4y157er)
+* [组合问题的剪枝操作（对应力扣题目：77.组合）](https://www.bilibili.com/video/BV1wi4y157er)
+* [组合总和（对应力扣题目：39.组合总和）](https://www.bilibili.com/video/BV1KT4y1M7HJ/)
 
 （持续更新中....）
 
 # LeetCode 刷题攻略
 
-> 不少同学和我反应LeetCode 刷题攻略这一栏没有了，首先感谢大家对本仓库的关注！因为我发现一些公众号抄袭我的Github，所以我把刷题攻略隐藏了，但是很多同学就看不到刷题顺序了，为了大家可以继续学习，我把算法精选文章的顺序整理了，和刷题攻略顺序一致的，而且比刷题攻略更全！感谢大家的支持，**这个仓库我每天都会更新的**！
+> 不少同学和我反应LeetCode 刷题攻略这一栏没有了，首先感谢大家对本仓库的关注！因为我发现一些公众号抄袭我的Github，所以我把刷题攻略隐藏了，但是很多同学就看不到刷题顺序了，为了大家可以继续学习，我把算法精选文章的顺序整理了，和刷题攻略顺序一致的，**文章顺序即刷题顺序**，而且比刷题攻略更全！感谢大家的支持，**这个仓库我每天都会更新的**！
 
 刷题顺序：建议先从同一类型里题目开始刷起，同一类型里再从简单到中等到困难刷起，题型顺序建议：**数组-> 链表-> 哈希表->字符串->栈与队列->树->回溯->贪心->动态规划->图论**。
 
@@ -40,22 +53,24 @@
 * 编程语言
     * [C++面试&C++学习指南知识点整理](https://github.com/youngyangyang04/TechCPP)
 
-* 代码风格
+* 编程素养
     * [看了这么多代码，谈一谈代码风格！](https://mp.weixin.qq.com/s/UR9ztxz3AyL3qdHn_zMbqw)
 
 * 求职 
-    * [程序员应该如何写简历（附简历模板）](https://mp.weixin.qq.com/s/PkBpde0PV65dJjj9zZJYtg)
+    * [程序员的简历应该这么写！！（附简历模板）](https://mp.weixin.qq.com/s/nCTUzuRTBo1_R_xagVszsA)
     * [BAT级别技术面试流程和注意事项都在这里了](https://mp.weixin.qq.com/s/815qCyFGVIxwut9I_7PNFw)
-    * [深圳原来有这么多互联网公司，你都知道么？](https://mp.weixin.qq.com/s/Yzrkim-5bY0Df66Ao-hoqA)
-    * [北京有这些互联网公司，你都知道么？](https://mp.weixin.qq.com/s/FQTzoZtqXQ2rlS1UthGrag)
-    * [上海有这些互联网公司，你都知道么？](https://mp.weixin.qq.com/s/msqbX6eR2-JBQOYFfec4sg)
+    * [深圳原来有这么多互联网公司，你都知道么？](https://mp.weixin.qq.com/s/3VJHF2zNohBwDBxARFIn-Q)
+    * [北京有这些互联网公司，你都知道么？]()
+    * [上海有这些互联网公司，你都知道么？]()
+    * [成都有这些互联网公司，你都知道么？](https://mp.weixin.qq.com/s/Y9Qg22WEsBngs8B-K8acqQ)
+    * [广州有这些互联网公司，你都知道么？](https://mp.weixin.qq.com/s/Ir_hQP0clbnvHrWzDL-qXg)
+    
 
 * 算法性能分析
-    * [究竟什么是时间复杂度，怎么求时间复杂度，看这一篇就够了](https://mp.weixin.qq.com/s/lYL9TSxLqCeFXIdjt4dcIw)
-    * [一文带你彻底理解程序为什么会超时](https://mp.weixin.qq.com/s/T-vcJSkq2-0s0bBB-itWbQ)
-    * [一场面试，带你彻底掌握递归算法的时间复杂度](https://mp.weixin.qq.com/s/Kt-Mvs8LeVqidLGUqySj1g)
-    * [算法分析中的空间复杂度，你真的会了么？](https://mp.weixin.qq.com/s/sXjjnOUEQ4Gf5F9QCRzy7g)
-    * [刷leetcode的时候，究竟什么时候可以使用库函数，什么时候不要使用库函数，过来人来说一说](https://leetcode-cn.com/circle/article/E1Kjzn/)
+    * [关于时间复杂度，你不知道的都在这里！](https://mp.weixin.qq.com/s/LWBfehW1gMuEnXtQjJo-sw)
+    * [O(n)的算法居然超时了，此时的n究竟是多大？](https://mp.weixin.qq.com/s/73ryNsuPFvBQkt6BbhNzLA)
+    * [通过一道面试题目，讲一讲递归算法的时间复杂度！](https://mp.weixin.qq.com/s/I6ZXFbw09NR31F5CJR_geQ)
+    * [本周小结！（算法性能分析系列一）](https://mp.weixin.qq.com/s/5m8xDbGUeGgYJsESeg5ITQ)
 
 * 数组
     * [必须掌握的数组理论知识](https://mp.weixin.qq.com/s/X7R55wSENyY62le0Fiawsg)
@@ -125,7 +140,8 @@
     * [二叉树：一入递归深似海，从此offer是路人](https://mp.weixin.qq.com/s/PwVIfxDlT3kRgMASWAMGhA)
     * [二叉树：听说递归能做的，栈也能做！](https://mp.weixin.qq.com/s/c_zCrGHIVlBjUH_hJtghCg)
     * [二叉树：前中后序迭代方式的写法就不能统一一下么？](https://mp.weixin.qq.com/s/WKg0Ty1_3SZkztpHubZPRg)
-    * [二叉树：层序遍历登场！](https://mp.weixin.qq.com/s/Gb3BjakIKGNpup2jYtTzog) * [二叉树：你真的会翻转二叉树么？](https://mp.weixin.qq.com/s/6gY1MiXrnm-khAAJiIb5Bg)
+    * [二叉树：层序遍历登场！](https://mp.weixin.qq.com/s/Gb3BjakIKGNpup2jYtTzog) 
+    * [二叉树：你真的会翻转二叉树么？](https://mp.weixin.qq.com/s/6gY1MiXrnm-khAAJiIb5Bg)
     * [本周小结！（二叉树）](https://mp.weixin.qq.com/s/JWmTeC7aKbBfGx4TY6uwuQ)
     * [二叉树：我对称么？](https://mp.weixin.qq.com/s/Kgf0gjvlDlNDfKIH2b1Oxg)
     * [二叉树：看看这些树的最大深度](https://mp.weixin.qq.com/s/guKwV-gSNbA1CcbvkMtHBg)
@@ -177,6 +193,8 @@
     * [本周小结！（回溯算法系列三）续集](https://mp.weixin.qq.com/s/kSMGHc_YpsqL2j-jb_E_Ag)
     * [视频来了！！带你学透回溯算法（理论篇）](https://mp.weixin.qq.com/s/wDd5azGIYWjbU0fdua_qBg)
     * [视频来了！！回溯算法：组合问题](https://mp.weixin.qq.com/s/a_r5JR93K_rBKSFplPGNAA)
+    * [视频来了！！回溯算法：组合问题的剪枝操作](https://mp.weixin.qq.com/s/CK0kj9lq8-rFajxL4amyEg)
+    * [视频来了！！回溯算法：组合总和](https://mp.weixin.qq.com/s/4M4Cr04uFOWosRMc_5--gg)
     * [回溯算法：重新安排行程](https://mp.weixin.qq.com/s/3kmbS4qDsa6bkyxR92XCTA)
     * [回溯算法：N皇后问题](https://mp.weixin.qq.com/s/lU_QwCMj6g60nh8m98GAWg)
     * [回溯算法：解数独](https://mp.weixin.qq.com/s/eWE9TapVwm77yW9Q81xSZQ)
@@ -188,6 +206,14 @@
     * [贪心算法：摆动序列](https://mp.weixin.qq.com/s/Xytl05kX8LZZ1iWWqjMoHA)
     * [贪心算法：最大子序和](https://mp.weixin.qq.com/s/DrjIQy6ouKbpletQr0g1Fg)
     * [本周小结！（贪心算法系列一）](https://mp.weixin.qq.com/s/KQ2caT9GoVXgB1t2ExPncQ)
+    * [贪心算法：买卖股票的最佳时机II](https://mp.weixin.qq.com/s/VsTFA6U96l18Wntjcg3fcg)
+    * [贪心算法：跳跃游戏](https://mp.weixin.qq.com/s/606_N9j8ACKCODoCbV1lSA)
+    * [贪心算法：跳跃游戏II](https://mp.weixin.qq.com/s/kJBcsJ46DKCSjT19pxrNYg)
+    * [贪心算法：K次取反后最大化的数组和](https://mp.weixin.qq.com/s/dMTzBBVllRm_Z0aaWvYazA)
+    * [本周小结！（贪心算法系列二）](https://mp.weixin.qq.com/s/RiQri-4rP9abFmq_mlXNiQ)
+    * [贪心算法：加油站](https://mp.weixin.qq.com/s/aDbiNuEZIhy6YKgQXvKELw)
+    * [贪心算法：分发糖果](https://mp.weixin.qq.com/s/8MwlgFfvaNYmjGwjuMlETQ)
+    * [贪心算法：柠檬水找零](https://mp.weixin.qq.com/s/0kT4P-hzY7H6Ae0kjQqnZg)
 
 
 * 动态规划
@@ -227,6 +253,7 @@
 |[0027.移除元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0027.移除元素.md)  |数组 |简单| **暴力** **双指针/快慢指针/双指针**|
 |[0028.实现strStr()](https://github.com/youngyangyang04/leetcode/blob/master/problems/0028.实现strStr().md)  |字符串 |简单| **KMP** |
 |[0031.下一个排列](https://github.com/youngyangyang04/leetcode/blob/master/problems/0031.下一个排列.md)  |数组 |中等| **模拟**  这道题目还是有难度的|
+|[0034.在排序数组中查找元素的第一个和最后一个位置](https://github.com/youngyangyang04/leetcode/blob/master/problems/0031.下一个排列.md)  |数组 |中等| **二分查找**比35.搜索插入位置难一些|
 |[0035.搜索插入位置](https://github.com/youngyangyang04/leetcode/blob/master/problems/0035.搜索插入位置.md) |数组 |简单| **暴力** **二分**|
 |[0037.解数独](https://github.com/youngyangyang04/leetcode/blob/master/problems/0037.解数独.md) |回溯 |困难| **回溯**|
 |[0039.组合总和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0039.组合总和.md) |数组/回溯 |中等| **回溯**|
@@ -242,6 +269,7 @@
 |[0056.合并区间](https://github.com/youngyangyang04/leetcode/blob/master/problems/0056.合并区间.md) |数组 |中等| **贪心** 以为是模拟题，其实是贪心|
 |[0057.插入区间](https://github.com/youngyangyang04/leetcode/blob/master/problems/0057.插入区间.md) |数组 |困难| **模拟**  是一道数组难题|
 |[0059.螺旋矩阵II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0059.螺旋矩阵II.md) |数组 |中等|**模拟**|
+|[0062.不同路径](https://github.com/youngyangyang04/leetcode/blob/master/problems/0062.不同路径.md) |数组、动态规划 |中等|**深搜** **动态规划** **数论**|
 |[0070.爬楼梯](https://github.com/youngyangyang04/leetcode/blob/master/problems/0070.爬楼梯.md) |动态规划|简单|**动态规划** dp里求排列|
 |[0077.组合](https://github.com/youngyangyang04/leetcode/blob/master/problems/0077.组合.md) |回溯 |中等|**回溯**|
 |[0078.子集](https://github.com/youngyangyang04/leetcode/blob/master/problems/0078.子集.md) |回溯/数组 |中等|**回溯**|
@@ -270,6 +298,7 @@
 |[0129.求根到叶子节点数字之和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0129.求根到叶子节点数字之和.md) |二叉树 |中等|**递归/回溯** 递归里隐藏着回溯，和113.路径总和II类似|
 |[0131.分割回文串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0131.分割回文串.md) |回溯 |中等|**回溯**|
 |[0135.分发糖果](https://github.com/youngyangyang04/leetcode/blob/master/problems/0135.分发糖果.md) |贪心 |困难|**贪心**好题目|
+|[0139.单词拆分](https://github.com/youngyangyang04/leetcode/blob/master/problems/0139.单词拆分.md) |动态规划 |中等|**完全背包** **回溯法**|
 |[0141.环形链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0141.环形链表.md) |链表 |简单|**快慢指针/双指针**|
 |[0142.环形链表II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0142.环形链表II.md) |链表 |中等|**快慢指针/双指针**|
 |[0143.重排链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0143.重排链表.md) |链表 |中等|**快慢指针/双指针** 也可以用数组，双向队列模拟，考察链表综合操作的好题|
@@ -319,6 +348,7 @@
 |[0454.四数相加II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0454.四数相加II.md) |哈希表 |中等| **哈希**|
 |[0455.分发饼干](https://github.com/youngyangyang04/leetcode/blob/master/problems/0455.分发饼干.md) |贪心 |简单| **贪心**|
 |[0459.重复的子字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0459.重复的子字符串.md) |字符创 |简单| **KMP**|
+|[0473.火柴拼正方形](https://github.com/youngyangyang04/leetcode/blob/master/problems/0473.火柴拼正方形.md) |深度优先搜索|中等| **回溯算法** 和698.划分为k个相等的子集差不多|
 |[0474.一和零](https://github.com/youngyangyang04/leetcode/blob/master/problems/0474.一和零.md) |动态规划 |中等| **多重背包** 好题目|
 |[0486.预测赢家](https://github.com/youngyangyang04/leetcode/blob/master/problems/0486.预测赢家.md) |动态规划 |中等| **递归** **记忆递归** **动态规划**|
 |[0491.递增子序列](https://github.com/youngyangyang04/leetcode/blob/master/problems/0491.递增子序列.md) |深度优先搜索 |中等|**深度优先搜索/回溯算法** 这个去重有意思|
@@ -337,25 +367,30 @@
 |[0590.N叉树的后序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0590.N叉树的后序遍历.md) |N叉树 |简单|**递归** **栈/迭代**|
 |[0617.合并二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0617.合并二叉树.md) |树 |简单|**递归** **迭代**|
 |[0637.二叉树的层平均值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0637.二叉树的层平均值.md) |树 |简单|**广度优先搜索/队列**|
+|[0649.Dota2参议院](https://github.com/youngyangyang04/leetcode/blob/master/problems/0649.Dota2参议院.md) |贪心 |简单|**贪心算法** 简单的贪心策略但代码实现很有技巧|
 |[0654.最大二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0654.最大二叉树.md) |树 |中等|**递归**|
 |[0685.冗余连接II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0685.冗余连接II.md) | 并查集/树/图 |困难|**并查集**|
 |[0669.修剪二叉搜索树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0669.修剪二叉搜索树.md) | 二叉搜索树/二叉树 |简单|**递归** **迭代**|
+|[0698.划分为k个相等的子集](https://github.com/youngyangyang04/leetcode/blob/master/problems/0698.划分为k个相等的子集.md) |回溯算法|中等|动态规划 **回溯算法** 这其实是组合问题，使用了两次递归，好题|
 |[0700.二叉搜索树中的搜索](https://github.com/youngyangyang04/leetcode/blob/master/problems/0700.二叉搜索树中的搜索.md) |二叉搜索树 |简单|**递归** **迭代**|
 |[0701.二叉搜索树中的插入操作](https://github.com/youngyangyang04/leetcode/blob/master/problems/0701.二叉搜索树中的插入操作.md) |二叉搜索树 |简单|**递归** **迭代**|
 |[0705.设计哈希集合](https://github.com/youngyangyang04/leetcode/blob/master/problems/0705.设计哈希集合.md) |哈希表 |简单|**模拟**|
 |[0707.设计链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0707.设计链表.md) |链表 |中等|**模拟**|
+|[0714.买卖股票的最佳时机含手续费](https://github.com/youngyangyang04/leetcode/blob/master/problems/0714.买卖股票的最佳时机含手续费.md) |贪心 动态规划 |中等|**贪心** **动态规划** 和122.买卖股票的最佳时机II类似，贪心的思路很巧妙|
 |[0763.划分字母区间](https://github.com/youngyangyang04/leetcode/blob/master/problems/0763.划分字母区间.md) |贪心 |中等|**双指针/贪心** 体现贪心尽可能多的思想|
+|[0738.单调递增的数字](https://github.com/youngyangyang04/leetcode/blob/master/problems/0738.单调递增的数字.md) |贪心算法 |中等|**贪心算法** 思路不错，贪心好题|
 |[0739.每日温度](https://github.com/youngyangyang04/leetcode/blob/master/problems/0739.每日温度.md) |栈 |中等|**单调栈** 适合单调栈入门|
 |[0767.重构字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0767.重构字符串.md) |字符串 |中等|**字符串** + 排序+一点贪心|
 |[0841.钥匙和房间](https://github.com/youngyangyang04/leetcode/blob/master/problems/0841.钥匙和房间.md) |孤岛问题 |中等|**bfs** **dfs**|
 |[0844.比较含退格的字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0844.比较含退格的字符串.md) |字符串 |简单|**栈** **双指针优化** 使用栈的思路但没有必要使用栈|
+|[0860.柠檬水找零](https://github.com/youngyangyang04/leetcode/blob/master/problems/0860.柠檬水找零.md) |贪心算法 |简单|**贪心算法** 基础题目|
 |[0925.长按键入](https://github.com/youngyangyang04/leetcode/blob/master/problems/0925.长按键入.md) |字符串 |简单|**双指针/模拟** 是一道模拟类型的题目|
 |[0941.有效的山脉数组](https://github.com/youngyangyang04/leetcode/blob/master/problems/0941.有效的山脉数组.md) |数组 |简单|**双指针**|
 |[0968.监控二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0968.监控二叉树.md) |二叉树 |困难|**贪心** 贪心与二叉树的结合|
 |[0973.最接近原点的K个点](https://github.com/youngyangyang04/leetcode/blob/master/problems/0973.最接近原点的K个点.md) |优先级队列 |中等|**优先级队列**|
 |[0977.有序数组的平方](https://github.com/youngyangyang04/leetcode/blob/master/problems/0977.有序数组的平方.md) |数组 |中等|**双指针** 还是比较巧妙的|
 |[1002.查找常用字符](https://github.com/youngyangyang04/leetcode/blob/master/problems/1002.查找常用字符.md) |栈 |简单|**栈**|
-|[1005.K次取反后最大化的数组和](https://github.com/youngyangyang04/leetcode/blob/master/problems/1005.K次取反后最大化的数组和.md) |贪心/排序 |**贪心算法** 贪心基础题目|
+|[1005.K次取反后最大化的数组和](https://github.com/youngyangyang04/leetcode/blob/master/problems/1005.K次取反后最大化的数组和.md) |贪心/排序 |简单|**贪心算法** 贪心基础题目|
 |[1047.删除字符串中的所有相邻重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/1047.删除字符串中的所有相邻重复项.md) |哈希表 |简单|**哈希表/数组**|
 |[1049.最后一块石头的重量II](https://github.com/youngyangyang04/leetcode/blob/master/problems/1049.最后一块石头的重量II.md) |动态规划 |中等|**01背包**|
 |[1207.独一无二的出现次数](https://github.com/youngyangyang04/leetcode/blob/master/problems/1207.独一无二的出现次数.md) |哈希表 |简单|**哈希** 两层哈希|
