@@ -87,6 +87,7 @@
 
 * 编程素养
     * [看了这么多代码，谈一谈代码风格！](https://mp.weixin.qq.com/s/UR9ztxz3AyL3qdHn_zMbqw)
+    * [力扣上的代码想在本地编译运行？](https://mp.weixin.qq.com/s/r1696t8lvcw7Rz4gb_jacw)
 
 * 求职 
     * [程序员的简历应该这么写！！（附简历模板）](https://mp.weixin.qq.com/s/nCTUzuRTBo1_R_xagVszsA)
@@ -272,12 +273,20 @@
 
 ## 动态规划
 
-动态规划专题已经开始啦，小伙伴快上车！
+动态规划专题已经开始啦，来不及解释了，小伙伴们上车别掉队！
 
-* [关于动态规划，你该了解这些！](https://leetcode-cn.com/circle/article/tNuNnM/)
+* [关于动态规划，你该了解这些！](https://mp.weixin.qq.com/s/ocZwfPlCWrJtVGACqFNAag)
+* [动态规划：斐波那契数](https://mp.weixin.qq.com/s/ko0zLJplF7n_4TysnPOa_w)
+* [动态规划：爬楼梯](https://mp.weixin.qq.com/s/Ohop0jApSII9xxOMiFhGIw)
+* [动态规划：使用最小花费爬楼梯](https://mp.weixin.qq.com/s/djZB9gkyLFAKcQcSvKDorA)
+* [本周小结！（动态规划系列一）](https://mp.weixin.qq.com/s/95VqGEDhtBBBSb-rM4QSMA)
+* [动态规划：不同路径](https://mp.weixin.qq.com/s/MGgGIt4QCpFMROE9X9he_A)
+
 
 
 ## 图论 
+
+## 十大排序
 
 ## 数论 
 
