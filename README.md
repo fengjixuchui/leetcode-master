@@ -76,7 +76,7 @@
 
 如果你有疑问或者发现文章哪里有不对的地方，都可以在留言区都能找到答案，还有很多录友的总结非常赞，看完之后也很有收获。
 
-目前「代码随想录」刷题指南更新了：**140篇文章，精讲了100道经典算法题目，部分难点题目还搭配了20分钟左右的视频讲解**。
+目前「代码随想录」刷题指南更新了：**140篇文章，精讲了100+道经典算法题目，共40w字的详细图解，部分难点题目还搭配了20分钟左右的视频讲解**。
 
 准备好了么，刷题攻略开始咯，go go go！
 
@@ -88,6 +88,7 @@
 * 编程素养
     * [看了这么多代码，谈一谈代码风格！](https://mp.weixin.qq.com/s/UR9ztxz3AyL3qdHn_zMbqw)
     * [力扣上的代码想在本地编译运行？](https://mp.weixin.qq.com/s/r1696t8lvcw7Rz4gb_jacw)
+    * [程序员应该用什么用具来写文档？](https://mp.weixin.qq.com/s/s_hig9nioq8nT-2F7AL0SQ)
 
 * 求职 
     * [程序员的简历应该这么写！！（附简历模板）](https://mp.weixin.qq.com/s/nCTUzuRTBo1_R_xagVszsA)
@@ -282,6 +283,11 @@
 * [本周小结！（动态规划系列一）](https://mp.weixin.qq.com/s/95VqGEDhtBBBSb-rM4QSMA)
 * [动态规划：不同路径](https://mp.weixin.qq.com/s/MGgGIt4QCpFMROE9X9he_A)
 * [动态规划：不同路径还不够，要有障碍！](https://mp.weixin.qq.com/s/lhqF0O4le9-wvalptOVOww)
+* [动态规划：整数拆分，你要怎么拆？](https://mp.weixin.qq.com/s/cVbyHrsWH_Rfzlj-ESr01A)
+* [动态规划：不同的二叉搜索树](https://mp.weixin.qq.com/s/8VE8pDrGxTf8NEVYBDwONw)
+* [动态规划：关于01背包问题，你该了解这些！](https://mp.weixin.qq.com/s/FwIiPPmR18_AJO5eiidT6w)
+* [动态规划：关于01背包问题，你该了解这些！（滚动数组）](https://mp.weixin.qq.com/s/M4uHxNVKRKm5HPjkNZBnFA)
+
 
 （持续更新中....）
 
