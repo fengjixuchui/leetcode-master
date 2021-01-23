@@ -235,10 +235,10 @@
 * [回溯算法：排列问题（二）](https://mp.weixin.qq.com/s/9L8h3WqRP_h8LLWNT34YlA)
 * [本周小结！（回溯算法系列三）](https://mp.weixin.qq.com/s/tLkt9PSo42X60w8i94ViiA)
 * [本周小结！（回溯算法系列三）续集](https://mp.weixin.qq.com/s/kSMGHc_YpsqL2j-jb_E_Ag)
-* [视频来了！！带你学透回溯算法（理论篇）](https://mp.weixin.qq.com/s/wDd5azGIYWjbU0fdua_qBg)
-* [视频来了！！回溯算法：组合问题](https://mp.weixin.qq.com/s/a_r5JR93K_rBKSFplPGNAA)
-* [视频来了！！回溯算法：组合问题的剪枝操作](https://mp.weixin.qq.com/s/CK0kj9lq8-rFajxL4amyEg)
-* [视频来了！！回溯算法：组合总和](https://mp.weixin.qq.com/s/4M4Cr04uFOWosRMc_5--gg)
+* [视频来了！！带你学透回溯算法（理论篇）](https://www.bilibili.com/video/BV1cy4y167mM)
+* [视频来了！！回溯算法（力扣题目：77.组合）](https://www.bilibili.com/video/BV1ti4y1L7cv)
+* [视频来了！！回溯算法剪枝操作（力扣题目：77.组合）](https://www.bilibili.com/video/BV1wi4y157er)
+* [视频来了！！回溯算法（力扣题目：39.组合总和）](https://www.bilibili.com/video/BV1KT4y1M7HJ/)
 * [回溯算法：重新安排行程](https://mp.weixin.qq.com/s/3kmbS4qDsa6bkyxR92XCTA)
 * [回溯算法：N皇后问题](https://mp.weixin.qq.com/s/lU_QwCMj6g60nh8m98GAWg)
 * [回溯算法：解数独](https://mp.weixin.qq.com/s/eWE9TapVwm77yW9Q81xSZQ)
@@ -285,8 +285,12 @@
 * [动态规划：不同路径还不够，要有障碍！](https://mp.weixin.qq.com/s/lhqF0O4le9-wvalptOVOww)
 * [动态规划：整数拆分，你要怎么拆？](https://mp.weixin.qq.com/s/cVbyHrsWH_Rfzlj-ESr01A)
 * [动态规划：不同的二叉搜索树](https://mp.weixin.qq.com/s/8VE8pDrGxTf8NEVYBDwONw)
+* [本周小结！（动态规划系列二）](https://mp.weixin.qq.com/s/VVsDwTP57g1f9aVsg6wShw)
 * [动态规划：关于01背包问题，你该了解这些！](https://mp.weixin.qq.com/s/FwIiPPmR18_AJO5eiidT6w)
 * [动态规划：关于01背包问题，你该了解这些！（滚动数组）](https://mp.weixin.qq.com/s/M4uHxNVKRKm5HPjkNZBnFA)
+* [动态规划：分割等和子集可以用01背包！](https://mp.weixin.qq.com/s/sYw3QtPPQ5HMZCJcT4EaLQ)
+* [动态规划：最后一块石头的重量 II](https://mp.weixin.qq.com/s/WbwAo3jaUaNJjvhHgq0BGg)
+* [本周小结！（动态规划系列三）](https://mp.weixin.qq.com/s/7emRqR1O3scH63jbaE678A)
 
 
 （持续更新中....）
