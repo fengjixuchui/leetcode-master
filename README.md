@@ -88,6 +88,8 @@
 * 编程素养
     * [看了这么多代码，谈一谈代码风格！](https://mp.weixin.qq.com/s/UR9ztxz3AyL3qdHn_zMbqw)
     * [力扣上的代码想在本地编译运行？](https://mp.weixin.qq.com/s/r1696t8lvcw7Rz4gb_jacw)
+* 工具 
+    * [一站式vim配置](https://github.com/youngyangyang04/PowerVim)
     * [程序员应该用什么用具来写文档？](https://mp.weixin.qq.com/s/s_hig9nioq8nT-2F7AL0SQ)
 
 * 求职 
@@ -291,6 +293,11 @@
 * [动态规划：分割等和子集可以用01背包！](https://mp.weixin.qq.com/s/sYw3QtPPQ5HMZCJcT4EaLQ)
 * [动态规划：最后一块石头的重量 II](https://mp.weixin.qq.com/s/WbwAo3jaUaNJjvhHgq0BGg)
 * [本周小结！（动态规划系列三）](https://mp.weixin.qq.com/s/7emRqR1O3scH63jbaE678A)
+* [动态规划：目标和！](https://mp.weixin.qq.com/s/2pWmaohX75gwxvBENS-NCw)
+* [动态规划：一和零！](https://mp.weixin.qq.com/s/x-u3Dsp76DlYqtCe0xEKJw) 
+* [动态规划：关于完全背包，你该了解这些！](https://mp.weixin.qq.com/s/akwyxlJ4TLvKcw26KB9uJw)
+* [动态规划：给你一些零钱，你要怎么凑？](https://mp.weixin.qq.com/s/PlowDsI4WMBOzf3q80AksQ)
+* [本周小结！（动态规划系列四）](https://mp.weixin.qq.com/s/vfEXwcOlrSBBcv9gg8VDJQ)
 
 
 （持续更新中....）
