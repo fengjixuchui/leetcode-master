@@ -108,6 +108,9 @@
     * [通过一道面试题目，讲一讲递归算法的时间复杂度！](https://mp.weixin.qq.com/s/I6ZXFbw09NR31F5CJR_geQ)
     * [本周小结！（算法性能分析系列一）](https://mp.weixin.qq.com/s/5m8xDbGUeGgYJsESeg5ITQ)
 
+* 资源下载 
+    * [「代码随想录」回溯算法学习手册开放下载！！](https://mp.weixin.qq.com/s/aSToAWOPnPV4GiDf9n0p-w)
+
 ## 数组 
 
 * [必须掌握的数组理论知识](https://mp.weixin.qq.com/s/X7R55wSENyY62le0Fiawsg)
@@ -298,6 +301,8 @@
 * [动态规划：关于完全背包，你该了解这些！](https://mp.weixin.qq.com/s/akwyxlJ4TLvKcw26KB9uJw)
 * [动态规划：给你一些零钱，你要怎么凑？](https://mp.weixin.qq.com/s/PlowDsI4WMBOzf3q80AksQ)
 * [本周小结！（动态规划系列四）](https://mp.weixin.qq.com/s/vfEXwcOlrSBBcv9gg8VDJQ)
+* [动态规划：Carl称它为排列总和！](https://mp.weixin.qq.com/s/Iixw0nahJWQgbqVNk8k6gA)
+* [动态规划：以前我没得选，现在我选择再爬一次！](https://mp.weixin.qq.com/s/e_wacnELo-2PG76EjrUakA)
 
 
 （持续更新中....）
@@ -317,7 +322,6 @@
 * 字典树 
 
 ## 海量数据处理
-
 
 # 算法模板 
 
