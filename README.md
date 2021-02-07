@@ -80,7 +80,17 @@
 
 准备好了么，刷题攻略开始咯，go go go！
 
+## 资源下载
+
+本资源由代码随想录出品：
+
+* [二叉树学习手册开放下载！！](https://mp.weixin.qq.com/s/uSyeCq0UF6kwRKcWkLnXuw)
+* [回溯算法学习手册开放下载！！](https://mp.weixin.qq.com/s/aSToAWOPnPV4GiDf9n0p-w)
+
+（将陆续整理各个专题的PDF下载版本）
+
 ## 前序
+
 
 * 编程语言
     * [C++面试&C++学习指南知识点整理](https://github.com/youngyangyang04/TechCPP)
@@ -107,9 +117,6 @@
     * [O(n)的算法居然超时了，此时的n究竟是多大？](https://mp.weixin.qq.com/s/73ryNsuPFvBQkt6BbhNzLA)
     * [通过一道面试题目，讲一讲递归算法的时间复杂度！](https://mp.weixin.qq.com/s/I6ZXFbw09NR31F5CJR_geQ)
     * [本周小结！（算法性能分析系列一）](https://mp.weixin.qq.com/s/5m8xDbGUeGgYJsESeg5ITQ)
-
-* 资源下载 
-    * [「代码随想录」回溯算法学习手册开放下载！！](https://mp.weixin.qq.com/s/aSToAWOPnPV4GiDf9n0p-w)
 
 ## 数组 
 
@@ -303,6 +310,9 @@
 * [本周小结！（动态规划系列四）](https://mp.weixin.qq.com/s/vfEXwcOlrSBBcv9gg8VDJQ)
 * [动态规划：Carl称它为排列总和！](https://mp.weixin.qq.com/s/Iixw0nahJWQgbqVNk8k6gA)
 * [动态规划：以前我没得选，现在我选择再爬一次！](https://mp.weixin.qq.com/s/e_wacnELo-2PG76EjrUakA)
+* [动态规划： 给我个机会，我再兑换一次零钱](https://mp.weixin.qq.com/s/dyk-xNilHzNtVdPPLObSeQ)
+* [动态规划：一样的套路，再求一次完全平方数](https://mp.weixin.qq.com/s/VfJT78p7UGpDZsapKF_QJQ)
+* [本周小结！（动态规划系列五）](https://mp.weixin.qq.com/s/znj-9j8mWymRFaPjJN2Qnw)
 
 
 （持续更新中....）
@@ -343,7 +353,7 @@
 
 # 我的公众号
 
-更多精彩文章持续更新，微信搜索：「代码随想录」第一时间围观，关注后回复：「简历模板」「力扣刷题指南」等关键字就可以获得我整理的学习资料。
+更多精彩文章持续更新，微信搜索：「代码随想录」第一时间围观，关注后回复：「简历模板」「力扣刷题指南」「回溯算法」等关键字就可以获得我整理的学习资料。
 
 **每天8：35准时为你推送一篇经典面试题目，帮你梳理算法知识体系，轻松学习算法！**，并且公众号里有大量学习资源，也有我自己的学习心得和方法总结，更有上万录友们在这里打卡学习，**来看看就你知道了，一定会发现相见恨晚！**
 
